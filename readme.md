@@ -1,4 +1,4 @@
-## TicketBeast!
+# TicketBeast!
 
 This repository contains the source code for each Test-Driven Laravel lesson that has been published so far.
 
